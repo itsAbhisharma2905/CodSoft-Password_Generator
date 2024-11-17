@@ -17,8 +17,3 @@ generate a password of the specified length.
 
 Display the Password: Print the generated password on the screen.
 
-
-Internship Project based on GUI based with Tkinter
-
-Sepetember A74 at Codsoft
-#codsoft
